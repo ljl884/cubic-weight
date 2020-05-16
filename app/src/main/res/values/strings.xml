@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CubicWeight</string>
+    <string name="average_cubic_weight">Current Average Cubic Weight: %1$skg</string>
+</resources>
